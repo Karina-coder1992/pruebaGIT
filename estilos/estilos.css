@@ -15,3 +15,12 @@ p{
     font-style: italic;
     font-size: 30px;
 }
+
+nav{
+    font-family: fantasy;
+    color: brown;
+    text-decoration: none;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
