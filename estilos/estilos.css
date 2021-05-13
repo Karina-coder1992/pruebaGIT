@@ -18,9 +18,11 @@ p{
 
 nav{
     font-family: fantasy;
-    color: brown;
-    text-decoration: none;
     text-align: center;
     display: flex;
     justify-content: space-between;
+}
+a{
+    color: cyan;
+    text-decoration: none;
 }
